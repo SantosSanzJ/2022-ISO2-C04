@@ -6,11 +6,9 @@
 
   <groupId>ISOC04</groupId>
   <artifactId>Maven</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
 
-  <name>Maven</name>
-  <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <url>https://github.com/SantosSanzJ/2022-ISO2-C04</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -72,4 +70,8 @@
       </plugins>
     </pluginManagement>
   </build>
+  <organization>
+  	<name>ISOC04</name>
+  </organization>
+  <name>Pilgrimfy</name>
 </project>
