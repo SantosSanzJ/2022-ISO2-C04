@@ -74,4 +74,16 @@
   	<name>ISOC04</name>
   </organization>
   <name>Pilgrimfy</name>
+    <module>iteracion1_client</module>
+    <module>iteracion1_server</module>
+    <module>iteracion2_client</module>
+    <module>iteracion2_server</module>
+    <module>iteracion3_client</module>
+    <module>iteracion3_server</module>
+    <module>iteracion4_client</module>
+    <module>iteracion4_server</module>
+    <module>iteracion5_client</module>
+    <module>iteracion5_server</module>
+    <module>iteracion6_client</module>
+    <module>iteracion6_server</module>
 </project>
